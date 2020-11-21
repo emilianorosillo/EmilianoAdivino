@@ -1,5 +1,9 @@
 package com.daw;
 
+/*
+ * Todo funciona como es debido
+ */
+
 import java.util.Scanner;
 
 public class Main {

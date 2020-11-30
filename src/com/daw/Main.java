@@ -1,3 +1,6 @@
+/*Correción Adrián Bravo
+* Todo funciona correctamente
+*/
 package com.daw;
 
 import java.util.Scanner;
